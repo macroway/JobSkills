@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文简历优化"
+  short_description: "根据目标岗位优化内容并生成一页楷体中文 Word 简历"
+  default_prompt: "使用 $resume-optimizer 根据原始简历和目标岗位生成一页中文楷体 Word 简历。"
